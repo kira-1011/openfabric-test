@@ -1,4 +1,4 @@
-# DEMO LINK [https://www.loom.com/share/ac8ef5ec8f26459fb99c028677fcb2c1]
+# [DEMO LINK] https://www.loom.com/share/ac8ef5ec8f26459fb99c028677fcb2c1
 
 # AI Junior Developer Test 
 Welcome! You’ve stepped into the arena – now show us what you’ve got! 
